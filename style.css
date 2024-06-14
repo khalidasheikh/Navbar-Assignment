@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar-nav .nav-item a.nav-link{
+    margin-right: 30px;
+    font-weight: bold;
+}
+
+.navbar-nav .nav-item a.nav-link:hover{
+    color: black;
+}
+.fa-facebook{
+    color: #1877F2;
+    font-size: 1.5em;
+}
+.fa-instagram{
+    color: rgb(109, 26, 204);
+    font-size: 1.5em;
+}
+.fa-linkedin{
+    color: 	#0077B5;
+    font-size: 1.5em;
+}
+.fa-twitter{
+    color: 	#1DA1F2;
+    font-size: 1.5em;
+}
